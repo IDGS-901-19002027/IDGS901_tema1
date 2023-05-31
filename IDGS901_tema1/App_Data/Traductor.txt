@@ -1,0 +1,9 @@
+amarillo,yellow
+rojo,red
+azul,blue
+verde,green
+blanco,white
+negro,darl
+naranja,orange
+blanco,white
+violeta,purpure
